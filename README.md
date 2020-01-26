@@ -1,7 +1,7 @@
 # FaceDetectionSmile
 This is an app used to recognize faces and detect if the face is smiling.
 
-Now on the Google PlayStore! https://play.google.com/store/apps/details?id=com.adamdejans.facedetectionsmile
+[Now on the Google PlayStore!](https://play.google.com/store/apps/details?id=com.adamdejans.facedetectionsmile)
 
 ### Screenshots
 
